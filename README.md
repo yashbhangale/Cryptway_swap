@@ -10,7 +10,7 @@ As blockchain and DeFi are still a evolving technology , you may have to update 
 Install cranq ide 
 
 useage
-'''
+```
 npm install
 npm run
-'''
+```
